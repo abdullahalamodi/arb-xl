@@ -1,0 +1,31 @@
+# Byte-compiled / package files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+test_env/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# PyInstaller
+*.spec
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+
+# VS Code and MacOS specific files
+.vscode/
+.DS_Store
+
+# Ignore environment variables and credentials
+.env

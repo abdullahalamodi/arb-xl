@@ -1,0 +1,17 @@
+{
+  "hello": "مرحبا",
+  "bye": "وداعا",
+  "_locale": "ar",
+  "@hello": {
+    "description": "",
+    "type": "text"
+  },
+  "@bye": {
+    "description": "",
+    "type": "text"
+  },
+  "@_locale": {
+    "description": "",
+    "type": "text"
+  }
+}

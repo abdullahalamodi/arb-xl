@@ -1,0 +1,17 @@
+{
+  "hello": "Hello",
+  "bye": "Goodbye",
+  "_locale": "en",
+  "@hello": {
+    "description": "",
+    "type": "text"
+  },
+  "@bye": {
+    "description": "",
+    "type": "text"
+  },
+  "@_locale": {
+    "description": "",
+    "type": "text"
+  }
+}
